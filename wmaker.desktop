@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Window Maker
+Exec=/usr/local/bin/wmaker
+Type=Application
+
